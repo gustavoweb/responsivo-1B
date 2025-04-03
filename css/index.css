@@ -17,10 +17,22 @@ nav{
     height: 6vh;
     background-color: #fff;
 }
+nav img{
+    height: 6vh;
+}
 header{
     width: 100%;
     height: 14vh;
     background-color: yellow;
+}
+header h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #333;
+    line-height: 14vh;
+    margin-left: 2%;
 }
 section{
     width: 100%;
