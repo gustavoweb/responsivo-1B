@@ -57,6 +57,29 @@ section article .largura{
     float: left;
     margin-left: 5%;
     margin-top: 2vh;
+    height: 5vh;
+    border: 0;
+    background-color: #013068;
+    color: #fff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-indent: 2%;
+    border-radius: 10px;
+}
+#radios{
+    width: 100%;
+    float: left;
+    /* background-color: gray; */
+    margin-top: 2vh;
+}
+#radios input{
+    margin-left: 3%;
+}
+#radios label{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #013068;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 footer{
     width: 100%;
